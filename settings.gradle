@@ -1,0 +1,3 @@
+rootProject.name='AndroidXPhoto'
+include ':app'
+include ':rphotolibrary'

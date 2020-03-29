@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PhotoLibrary</string>
+
+    <string name="toast_select_notice">所选图片过大，不能超过10M!</string>
+
+    <string name="toast_select_notice_title">提示：</string>
+</resources>
